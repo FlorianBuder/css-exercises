@@ -1,0 +1,22 @@
+* {
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.back {
+  background-color: lightcoral;
+}
+
+#id {
+  color: blue;
+  font-size: 36px;
+}
+
+.size {
+  font-size: 24px;
+}
+
+#spezi {
+  font-size: 24px;
+  font-weight: bold;
+  background-color: lightgreen;
+}
